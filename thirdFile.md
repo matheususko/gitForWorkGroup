@@ -1,0 +1,3 @@
+# Esse arquivo é referente ao modulo a onde pesso para criar um novo arquivo no arquivo secondFile...
+
+![./gitStatus.png]
