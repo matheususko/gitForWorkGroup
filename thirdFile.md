@@ -1,6 +1,6 @@
 # Esse arquivo é referente ao modulo a onde pesso para criar um novo arquivo no arquivo secondFile...
 
-![./gitStatus.png]
+![git status](./gitStatus.png)
 ---
 ## Estados dos arquivos
 -> Não monitorado (untracked)
@@ -11,7 +11,7 @@
     Quando a gente da o git add, ele vira um arquivo staged, o git tem uma area, que os arquivos estao esperando para ser comitados.
 -> Consolidado (commited)
     Consolidado/comitado.
-![./estadoArquivo.png]
+![Estado do arquivo](./estadoArquivo.png)
 ---
 # Comando Diff
 
