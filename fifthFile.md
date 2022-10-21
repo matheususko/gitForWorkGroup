@@ -11,3 +11,5 @@ git pull
 > Deu certo!
 
 _Agora vou passar para o Marcelo D2 editar um outro arquivo_
+
+#### Analisando commits no QA.
