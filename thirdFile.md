@@ -11,7 +11,9 @@
     Quando a gente da o git add, ele vira um arquivo staged, o git tem uma area, que os arquivos estao esperando para ser comitados.
 -> Consolidado (commited)
     Consolidado/comitado.
+
 ![Estado do arquivo](./estadoArquivo.png)
+
 ---
 # Comando Diff
 
