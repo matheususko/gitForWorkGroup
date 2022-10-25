@@ -4,10 +4,11 @@
 ```
 git pull
 ```
-2º acessar a pasta
-3° abrir o código (code .)
-4º mudar a branch para a de desenvolvimento (feature)
+2º acessar a pasta na IDE
+3º mudar a branch para a de desenvolvimento (feature)
 ```
 git checkout <path>
 ```
-5º 
+4º Contribui no código obs:Mayor
+
+5°
