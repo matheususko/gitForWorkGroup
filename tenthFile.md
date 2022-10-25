@@ -1,5 +1,5 @@
 # Git Revert
-# Git Revert
+
 Irá criar um novo commit que desfaz as alterações do commit especificado.
 ```
 git revert <commit>
