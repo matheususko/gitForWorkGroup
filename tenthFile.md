@@ -1,5 +1,9 @@
 # Git Revert
+<<<<<<< HEAD
 
+=======
+# Git Revert
+>>>>>>> master
 Irá criar um novo commit que desfaz as alterações do commit especificado.
 ```
 git revert <commit>
@@ -27,4 +31,7 @@ Resetar e remover todas as alterações.
 ```
 git reset --hard <commit>
 ```
+<<<<<<< HEAD
 teste para revert
+=======
+>>>>>>> master
